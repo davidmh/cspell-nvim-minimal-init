@@ -1,0 +1,14 @@
+{
+  "version": "0.2",
+  "dictionaries": [
+    "example-dictionary"
+  ],
+  "words": [],
+  "dictionaryDefinitions": [
+    {
+      "name": "example-dictionary",
+      "path": "example-dictionary.txt",
+      "addWords": true
+    }
+  ]
+}

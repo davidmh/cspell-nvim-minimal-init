@@ -1,0 +1,10 @@
+{
+  "name": "cspell.nvim-issue-27",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David Mejorado <david.mejorado@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cspell": "^8.0.0"
+  }
+}
