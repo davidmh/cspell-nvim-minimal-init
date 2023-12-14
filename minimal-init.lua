@@ -39,7 +39,7 @@ function M.setup()
         opts = function(_, opts)
           local cspell = require("cspell")
           local cspell_opts = {
-            prefer_local = 'node_modules/.bin',
+            prefer_local = "node_modules/.bin",
           }
           opts.sources = vim.list_extend(opts.sources or {}, {
             cspell.diagnostics.with(cspell_opts),
